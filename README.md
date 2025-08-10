@@ -239,18 +239,6 @@ This project is available under the MIT License for educational and academic pur
 
 ---
 
-## 🤝 **Contributing**
-
-While this is primarily an assessment project, contributions for improvements are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -m 'Add improvement'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
----
-
 ## 📞 **Contact**
 
 - **GitHub Issues**: [Project Issues](https://github.com/adinramaadin/LaTeX_KompasArticleReview/issues)
