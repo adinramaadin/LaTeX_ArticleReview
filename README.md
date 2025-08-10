@@ -178,7 +178,6 @@ Rscript R_visualization.R
 **Farhan Aditya Ramadhan**  
 📧 adin.ramaadin@gmail.com  
 🎓 Universitas Indonesia  
-🏢 Economic Analyst Intern Candidate, Harian Kompas
 
 ### **Project Context**
 - **Purpose**: Technical assessment for Economic Analyst Intern position
