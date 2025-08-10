@@ -5,14 +5,14 @@
 [![Academic](https://img.shields.io/badge/Type-Academic%20Analysis-green?style=flat-square)](/)
 [![Language](https://img.shields.io/badge/Language-Bahasa%20Indonesia-red?style=flat-square)](/)
 
-> **A LaTeX-based policy analysis of two Kompas.id articles on Indonesia's VAT reform**  
+> **A LaTeX-based review of two Kompas.id articles on Indonesia's VAT reform**  
 > *Written for Economic Analyst Intern (Batch 3–2025) technical test at Harian Kompas*
 
 ---
 
 ## 🎯 **Project Overview**
 
-This repository contains a LaTeX-based article review examining two articles by **Budiawan Sidik Arifianto** published in Kompas.id regarding Indonesia's VAT (PPN) reform debate. The project demonstrates advanced LaTeX typesetting skills, data visualization capabilities, and critical policy analysis for the Harian Kompas technical assessment.
+This repository contains a LaTeX-based review examining two articles by **Budiawan Sidik Arifianto** published in Kompas.id regarding Indonesia's VAT (PPN) reform debate. The project demonstrates advanced LaTeX typesetting skills, data visualization capabilities, and critical policy analysis for the Harian Kompas technical assessment.
 
 ### 📝 **Technical Features**
 - **Document Type**: Academic article review in LaTeX format
