@@ -48,7 +48,7 @@ This repository contains a LaTeX-based review examining two articles by **Budiaw
 | **Article Review** | Systematic analysis of two selected Kompas.id articles on tax policy |
 | **Fiscal Paradox** | Examination of Indonesia's tax governance challenges |
 | **International Comparison** | Benchmarking against ASEAN and emerging market countries |
-| **Policy Critique** | Critical evaluation of proposed VAT reform approaches |
+| **Policy Critique** | Critical evaluation of proposed VAT reform approaches discussed in two Kompas.id articles |
 
 ---
 
