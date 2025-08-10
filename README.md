@@ -12,7 +12,7 @@
 
 ## 🎯 **Project Overview**
 
-This repository contains a LaTeX-based review of two articles by **Budiawan Sidik Arifianto** published on *Kompas.id*, examining Indonesia's VAT (PPN) reform debate. It tries to showcase my advanced LaTeX typesetting, sophisticated data visualization, and critical policy analysis skills developed for the Harian Kompas technical assessment.
+This repository contains a LaTeX-based review of two articles by **Budiawan Sidik Arifianto** published on *Kompas.id*, examining Indonesia's VAT (PPN) reform debate. It contains my LaTeX source files (and the compiled PDF), data visualizations created using RStudio, and policy analysis completed for the Harian Kompas technical test.
 
 The articles reviewed are “[Kunci Pembangunan Ekonomi Bukan Hanya Soal Besaran Pajak, Melainkan Juga Tata Kelolanya](https://www.kompas.id/artikel/kunci-pembangunan-ekonomi-bukan-hanya-soal-besaran-pajak-melainkan-juga-tata-kelolanya)” and “[Kebijakan Pajak yang Rasional Menstimulasi Kemajuan Ekonomi Nasional](https://www.kompas.id/artikel/kebijakan-pajak-yang-rasional-menstimulasi-kemajuan-ekonomi-nasional)”.
 
