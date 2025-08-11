@@ -64,7 +64,7 @@
 \def\@authorinfoblind{}
 \def\@runningauthor{}
 \def\@runningtitle{}
-\def\@journalname{Latihan LaTeX – Analisis Kebijakan Ekonomi}
+\def\@journalname{Latihan LaTeX – Artikel Ulasan Media Nasional}
 \def\@publishername{}
 \def\@publishedyear{\the\year}
 
