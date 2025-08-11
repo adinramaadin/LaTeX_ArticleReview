@@ -5,8 +5,8 @@
 [![Academic](https://img.shields.io/badge/Type-Academic%20Analysis-green?style=flat-square)](/)
 [![Language](https://img.shields.io/badge/Language-Bahasa%20Indonesia-red?style=flat-square)](/)
 
-> **A LaTeX-based review of two Kompas.id articles on Indonesia's VAT reform**  
-> *Written for Economic Analyst Intern (Batch 3–2025) technical test at Harian Kompas*
+> **A LaTeX-based review of two online news articles on Indonesia's VAT reform**  
+> *Originally prepared for a writing-focused economics technical assessment*
 
 ---
 
