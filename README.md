@@ -182,7 +182,7 @@ Rscript R_visualization.R
 🎓 Universitas Indonesia  
 
 ### **Project Context**
-- **Purpose**: Prepared for a writing-focused technical assessment
+- **Purpose**: Prepared for a writing-focused economics technical assessment
 - **Skills Demonstrated**: LaTeX typesetting, data analysis, policy critique
 
 ---
