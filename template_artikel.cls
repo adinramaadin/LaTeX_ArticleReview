@@ -64,8 +64,8 @@
 \def\@authorinfoblind{}
 \def\@runningauthor{}
 \def\@runningtitle{}
-\def\@journalname{Seleksi Teknis Economic Analyst Intern}
-\def\@publishername{Harian Kompas}
+\def\@journalname{Latihan LaTeX – Analisis Kebijakan Ekonomi}
+\def\@publishername{}
 \def\@publishedyear{\the\year}
 
 \renewcommand{\author}[3]{%
@@ -232,7 +232,7 @@
   \pagestyle{fancy}
   \fancyhead[RO]{\footnotesize Page \thepage{} of \pageref{LastPage}}
   \fancyhead[LO]{\footnotesize%
-  \textit{Tugas untuk \@journalname}\\[-\baselineskip]%
+  \textit{Proyek \@journalname}\\[-\baselineskip]%
   \raisebox{-1.25\baselineskip}[0pt][0pt]{Github:\href{https://github.com/adinramaadin/LaTeX_KompasArticleReview}{github.com/adinramaadin/LaTeX\_KompasArticleReview}
 }
   }
