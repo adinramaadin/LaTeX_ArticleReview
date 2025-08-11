@@ -12,7 +12,7 @@
 
 ## 🎯 **Project Overview**
 
-This repository contains a LaTeX-based review of two articles by **Budiawan Sidik Arifianto** published on *Kompas.id*, examining Indonesia's VAT (PPN) reform debate. It contains my LaTeX source files (and the compiled PDF), data visualizations created using RStudio, and policy analysis completed for the Harian Kompas technical test.
+This repository contains a LaTeX-based review of two articles by **Budiawan Sidik Arifianto** published on *Kompas.id*, examining Indonesia's VAT (PPN) reform debate. It contains my LaTeX source files (and the compiled PDF), data visualizations created using RStudio, and policy analysis  originally prepared for a writing-focused technical assesment.
 
 The articles reviewed are “[Kunci Pembangunan Ekonomi Bukan Hanya Soal Besaran Pajak, Melainkan Juga Tata Kelolanya](https://www.kompas.id/artikel/kunci-pembangunan-ekonomi-bukan-hanya-soal-besaran-pajak-melainkan-juga-tata-kelolanya)” and “[Kebijakan Pajak yang Rasional Menstimulasi Kemajuan Ekonomi Nasional](https://www.kompas.id/artikel/kebijakan-pajak-yang-rasional-menstimulasi-kemajuan-ekonomi-nasional)”.
 
@@ -182,9 +182,7 @@ Rscript R_visualization.R
 🎓 Universitas Indonesia  
 
 ### **Project Context**
-- **Purpose**: Technical assessment for Economic Analyst Intern position
-- **Institution**: Harian Kompas, Litbang Division
-- **Batch**: 3–2025 Intern Selection
+- **Purpose**: Prepared for a writing-focused technical assessment
 - **Skills Demonstrated**: LaTeX typesetting, data analysis, policy critique
 
 ---
@@ -198,7 +196,6 @@ Rscript R_visualization.R
     institution={Universitas Indonesia},
     year={2025},
     type={Article Review},
-    note={Economic Analyst Intern Technical Assessment, Harian Kompas}
 }
 ```
 
